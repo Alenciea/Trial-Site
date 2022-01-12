@@ -1,0 +1,37 @@
+.mixoel {
+    width: 25rem;
+    height: 10rem;
+    font-size: 4rem;
+    padding: 10px;
+    margin-left: 10rem;
+}
+
+a:hover {
+    text-decoration: none;
+    color: crimson;
+}
+
+a:link {
+    text-decoration: none;
+    color: #7f00ff;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+    color: yellow;
+}
+
+.teilox {
+    width: 170px;
+    height: 40px;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 20px;
+    background-color: #373535;
+    position: relative;
+    color: white;
+}

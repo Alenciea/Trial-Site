@@ -1,0 +1,91 @@
+/*
+.box:hover {
+    border: inset 5px goldenrod;
+    transform: scale(1.05);
+    border-radius: 15px;
+}
+*/
+
+* {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    list-style-type: none;
+}
+
+body {
+    background-repeat: no-repeat;
+}
+
+.menu {
+    width: auto;
+    height: 70px;
+    background-color: #585858;
+}
+
+.middle {
+    width: auto;
+    background-repeat: no-repeat;
+    height: 560px;
+    width: auto;
+}
+
+.miontos {
+    width: auto;
+    height: 50;
+    margin-left: 1px;
+    font-size: 45px;
+    color: white;
+    margin-top: 45px;
+}
+
+.box {
+    width: 27rem;
+    display: flex;
+    height: 30rem;
+    box-shadow: 0 4px 12px gray;
+    cursor: pointer;
+    margin-left: 25px;
+    float: left;
+    margin-right: 20px;
+    margin-top: 60px;
+    transition: 0.2s;
+}
+
+.boxx {
+    width: 27rem;
+    display: flex;
+    height: 30rem;
+    box-shadow: 0 6px 13px gray;
+    cursor: pointer;
+    float: left;
+    margin-right: 20px;
+    margin-left: 25px;
+    margin-top: 60px;
+    transition: 0.2s;
+}
+
+.boxxx {
+    width: 27rem;
+    display: flex;
+    height: 30rem;
+    box-shadow: 0 4px 12px gray;
+    cursor: pointer;
+    margin-left: 15px;
+    float: left;
+    margin-right: 45px;
+    margin-top: 60px;
+    transition: 0.2s;
+}
+
+.boxxxx {
+    width: 27rem;
+    display: flex;
+    height: 30rem;
+    box-shadow: 0 4px 12px gray;
+    cursor: pointer;
+    margin-left: 25px;
+    margin-top: 60px;
+    border-radius: 0px;
+    transition: 0.2s;
+}
